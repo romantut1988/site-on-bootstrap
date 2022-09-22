@@ -377,3 +377,14 @@ h3 {
   color: #8f8f8f;
   margin-bottom: 17px;
 }
+
+.footer {
+  height: 240px;
+  background: #515151;
+  margin-top: 136px;
+}
+
+.footer__logo {
+  margin-top: 109px;
+  margin-bottom: 109px;
+}
