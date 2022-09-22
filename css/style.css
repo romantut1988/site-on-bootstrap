@@ -323,3 +323,13 @@ h3 {
 .tabs__content.active {
   display: flex !important; /* по умолчанию показываем нужный блок */
 }
+
+.work-botom__choice {
+  margin-top: 53px;
+}
+
+.work-botom__text {
+  
+}
+
+
