@@ -328,8 +328,32 @@ h3 {
   margin-top: 53px;
 }
 
-.work-botom__text {
-  
+.testimonials {
+  padding-top: 248px;
 }
 
+.testimonials__label {
+  margin-bottom: 73px;
+}
 
+.contributor {
+  margin-top: 121px;
+}
+
+.contributor__title {
+  margin-bottom: 13px;
+}
+
+.contributor__photo {
+  display: block;
+}
+
+.contributor-carousel .owl-nav {
+  position: relative;
+  display: flex;
+  margin-top: -50px;
+}
+
+.contributor-carousel .owl-prev {
+  margin-right: 25px;
+}
