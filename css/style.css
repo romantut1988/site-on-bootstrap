@@ -366,15 +366,14 @@ h3 {
   padding-top: 278px;
 }
 
+.clients-title__heading {
+  margin-bottom: 127px;
+}
+
 .clients-title__label {
   text-transform: uppercase;
   font-size: 14px;
   letter-spacing: 0.25em;
   color: #8f8f8f;
   margin-bottom: 17px;
-  margin-top: 10px;
-}
-
-.clients__text {
-  margin-bottom: 76px;
 }
